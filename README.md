@@ -26,4 +26,5 @@ Present the details concerning how you will test your hypothesis. Describe the l
 Start with the results of your test. State the value of the test statistics and the result of the accept/reject decision. Identify the p-value of the test.
 # Summary and Conclusions
   Summarize the process of the project Provide the concluding statement concerning the hypothesis, the results, and the sensitivity of the testing. Dataset The dataset and glossary to use for this project can be found here [https://www.kaggle.com/jsphyg/weather-dataset-rattle-package]
-# License Moringa School
+# License {MIT} Copyright (c) 2021 Moringa School Data Science
+
